@@ -1,0 +1,26 @@
+#the mod name as displayed in-game
+displayName: "Iris"
+
+#the internal name of your mod
+name: "iris"
+
+#your name
+author: "Sh1penfire"
+
+#the fully qualified main class of the mod
+main: "main.Iris"
+
+#the mod description as seen in the mod dialog
+description: "A [re[]d]WIP[[]] project made to redo the waves system in Mindustry."
+
+#the mod version
+version: 1
+
+#the minimum game build required to run this mod
+minGameVersion: 145
+
+#this is a java mod
+java: true
+
+#hidden from the browser
+hideFromBrowser: true
